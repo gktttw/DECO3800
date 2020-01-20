@@ -53,4 +53,9 @@ This is what a standard codeigniter application looks like
 |	+-- SQL (not important)
 |	+-- system (not important)
 |	+-- uploads (not important)
+
+
+Live version on AWS EC2
+http://ec2-3-135-234-245.us-east-2.compute.amazonaws.com/deco3800-Subs2pewds/wq/
+
 	
